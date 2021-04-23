@@ -1,7 +1,7 @@
 # Bitcoin-Price-Prediction
 
-### Project was done on Google Colab
-### Dataset used has been got from https://www.kaggle.com/team-ai/bitcoin-price-prediction
+#### The project was done on Google Colab
+#### Dataset used has been got from https://www.kaggle.com/team-ai/bitcoin-price-prediction
 
 ________________________________________________________________________________________________________
 ## The libraries used are -

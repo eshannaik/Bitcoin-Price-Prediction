@@ -5,19 +5,20 @@
 
 ________________________________________________________________________________________________________
 ## The libraries used are -
-    #### i) Pandas
-    #### ii) Numpy 
-    #### iii) Matplotlib.pyplot 
-    #### iv) Keras
-    #### v) Sklearn
-    #### vi) Plotly
+    i) Pandas
+    ii) Numpy 
+    iii) Matplotlib.pyplot 
+    iv) Keras
+    v) Sklearn
+    vi) Plotly
 
-
+___________________________________________________________________________________________________________
 ## About the model used
-    ### Predict future Bitcoin Prices using LSTM model.
-    ### The LSTM model has 4 LSTM layers and 4 Dropout layers with a final dense layer. 
-    ### The model uses a sigmoid activation function an adam optimizer and mse as the loss function.
-    ### The model has been trained for 100 epochs with a batch size of 32
+    Predict future Bitcoin Prices using LSTM model.
+    The LSTM model has 4 LSTM layers and 4 Dropout layers with a final dense layer. 
+    The model uses a sigmoid activation function an adam optimizer and mse as the loss function.
+    The model has been trained for 100 epochs with a batch size of 32
 
+____________________________________________________________________________________________________________
 ## A few visualizations have been used to see the performance of the model
-    #### The graphs that are used are using matplotlib and Plotly 
+    The graphs that are used are using matplotlib and Plotly 
